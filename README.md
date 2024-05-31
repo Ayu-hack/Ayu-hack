@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://visitor-badge.laobi.icu/badge?page_id=thedarknight01.thedarknight01&"  />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayu-hack.Ayu-hack&"  />
  
 <div align="center">
 <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlenJtYTZiY3RucnM2ZzdjZ3F1dGFpY3JxcGM4eHVncjd0dHY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="300px">
@@ -57,8 +57,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-tiwari02) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thedarknight01) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skyy_sooon)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-tiwari02) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayu-hack) 
 
 ###### Feel free to explore and contribute to any of my repositories. Your feedback and suggestions are always welcome!
 
