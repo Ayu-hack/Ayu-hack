@@ -34,7 +34,8 @@ Here are some of the tools and technologies I work with:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-Yellow?style=flat-square&logo=PowerBI&labelColor=%235e5c57&color=%23ffc000)
+![MacOS](https://img.shields.io/badge/MAC%20OS%20-949494?style=flat-square&logo=macos&logoColor=white)
 ## 📈 GitHub Stats
 <div>
 
