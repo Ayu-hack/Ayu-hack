@@ -50,9 +50,9 @@ Here are some of the tools and technologies I work with:
 ## 📈 GitHub Stats
 <div>
 
-![NITIN TIWARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarknight01&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarknight01&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" height="200px"><br>
-<img src="https://github-profile-trophy.vercel.app/?username=thedarknight01&row=2&column=3&theme=gruvbox" height="250px">
+![AYUSH TIWARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayu-hack&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayu-hack&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" height="200px"><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayu-hack&row=2&column=3&theme=gruvbox" height="250px">
 </div>
 
 ## 📫 How to reach me
