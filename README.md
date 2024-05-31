@@ -1,19 +1,7 @@
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayu-hack.Ayu-hack&"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Ayu-hack.Ayu-hack&"  />
  
 <div align="center">
-<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlenJtYTZiY3RucnM2ZzdjZ3F1dGFpY3JxcGM4eHVncjd0dHY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="300px">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZxYWJtNmgxYTEyZHZvZTR3Z3VpdG81aTRmZnY3dnoxMGYydWZtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="480" height="480" >  
  
 ### Hi there 👋 I'm Ayush Tiwari!
 ##### from 🗺️ BHARAT <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1NGh2bTQ2OHB4c2w1ejkybDRnaXlwbjh2Zm1oYmliN203OWFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ko3ZmwnSOpPmPkBsb/giphy.gif" height="20px" width="20px">
@@ -57,7 +45,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-tiwari02) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayu-hack) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-tiwari02/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayu-hack) 
 
 ###### Feel free to explore and contribute to any of my repositories. Your feedback and suggestions are always welcome!
 
