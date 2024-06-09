@@ -29,6 +29,8 @@ Here are some of the tools and technologies I work with:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Yellow?style=flat-square&logo=PowerBI&labelColor=%235e5c57&color=%23ffc000)
 ![MacOS](https://img.shields.io/badge/MAC%20OS%20-949494?style=flat-square&logo=macos&logoColor=white)
+
+
 ## 📈 GitHub Stats
 <div>
 
