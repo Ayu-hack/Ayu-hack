@@ -6,12 +6,11 @@
 ### Hi there 👋 I'm Ayush Tiwari!
 ##### from 🗺️ BHARAT <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1NGh2bTQ2OHB4c2w1ejkybDRnaXlwbjh2Zm1oYmliN203OWFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ko3ZmwnSOpPmPkBsb/giphy.gif" height="20px" width="20px">
 
-Welcome to my GitHub profile! I'm a passionate developer eager to learn and contribute to exciting projects. Here you'll find some of my latest work and projects that I'm proud to share.
+I’m passionate about exploring innovative solutions to enhance security and streamline cloud operations. Whether it's designing robust security protocols or developing scalable cloud applications, I thrive on tackling complex challenges and contributing to impactful projects.
 
 ## 🚀 About Me
 <UL align="left">
-<li>💻 Full Stack Developer focusing on dynamic and responsive web applications.</li>
-<li> 📚 Lifelong learner currently exploring new technologies and tools.</li>
+<li>💻 Dedicated to cybersecurity and cloud computing.</li>
 <li> 🎓 BCA in Computer Science from Amity University.</li>
 
 </UL>
@@ -20,15 +19,30 @@ Welcome to my GitHub profile! I'm a passionate developer eager to learn and cont
 
 Here are some of the tools and technologies I work with:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Yellow?style=flat-square&logo=PowerBI&labelColor=%235e5c57&color=%23ffc000)
-![MacOS](https://img.shields.io/badge/MAC%20OS%20-949494?style=flat-square&logo=macos&logoColor=white)
+### Operating Systems
+![MacOS](https://img.shields.io/badge/OS-MacOS-000000?logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D4?logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
+
+### Editors & IDEs
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+### Languages & Frameworks
+![HTML](https://img.shields.io/badge/Language-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Language-CSS-1572B6?logo=css3&logoColor=white)
+![ReactJS](https://img.shields.io/badge/Framework-ReactJS-61DAFB?logo=react&logoColor=black)
+
+### Cloud Platforms
+![Google Cloud Platform](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+
+### Tools & Skills
+![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)
+![Pull Request Management](https://img.shields.io/badge/Skill-Pull_Request_Management-6CC644?logo=git&logoColor=white)
+![Documentation](https://img.shields.io/badge/Skill-Documentation-4B8BBE?logo=read-the-docs&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office_365-0078D4?logo=microsoft-office&logoColor=white)
 
 
 ## 📈 GitHub Stats
