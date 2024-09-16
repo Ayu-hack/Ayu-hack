@@ -8,7 +8,24 @@
 
 I’m passionate about exploring innovative solutions to enhance security and streamline cloud operations. Whether it's designing robust security protocols or developing scalable cloud applications, I thrive on tackling complex challenges and contributing to impactful projects.
 
+<UL align="left">
 
+## 🌟 Profile Badges 🌟
+
+Showcasing my achievements and contributions across various platforms:
+
+### Try Hack Me
+<img src="https://tryhackme-badges.s3.amazonaws.com/ayushtiwari02.png" alt="TryHackMe">
+
+### GeeksforGeeks 
+
+[![GeeksforGeeks Stats](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ayushtiwari578)
+
+ 
+### Hacker Rank 
+[![HackerRank Stats](https://img.shields.io/badge/HackerRank-Profile-4F9A94?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayushtiwari578)
+
+</ul>
 <UL align="left">
 
 ## 🚀 About Me
@@ -61,15 +78,7 @@ I’m passionate about exploring innovative solutions to enhance security and st
 
 </ul>
 
-<UL align="left">
 
-### GeeksforGeeks Stats
-[![GeeksforGeeks Stats](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ayushtiwari578)
-
-### Hacker Rank Stats
-[![HackerRank Stats](https://img.shields.io/badge/HackerRank-Profile-4F9A94?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayushtiwari578)
-
-</ul>
 
 ## 📈 GitHub Stats
 <div>
