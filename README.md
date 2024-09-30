@@ -85,6 +85,8 @@ Showcasing my achievements and contributions across various platforms:
 
 ![AYUSH TIWARI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayu-hack&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayu-hack&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" height="200px"><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thedarknight01&theme=radical" alt="GitHub Streak Stats" style="width:300px;hieght:200px" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=Ayu-hack&row=2&column=3&theme=gruvbox" height="250px">
 </div>
 
