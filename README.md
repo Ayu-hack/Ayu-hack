@@ -78,6 +78,8 @@ Showcasing my achievements and contributions across various platforms:
 
 </ul>
 
+## Holopin contribution badges
+[![An image of @ayuhack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayuhack)](https://holopin.io/@ayuhack)
 
 
 ## 📈 GitHub Stats
