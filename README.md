@@ -15,7 +15,8 @@ I’m passionate about exploring innovative solutions to enhance security and st
 Showcasing my achievements and contributions across various platforms:
 
 ### Try Hack Me
-<img src="https://tryhackme-badges.s3.amazonaws.com/ayushtiwari02.png" alt="TryHackMe">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/ayushtiwari02.png" alt="Your Image Badge" />
 
 ### GeeksforGeeks 
 
